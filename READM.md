@@ -1,2 +1,2 @@
 # Demo
-we start with Git today.
+we start with Git today!
